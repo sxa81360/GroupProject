@@ -5,11 +5,11 @@ Group Lab Work For Code Management With Github
 Project Name: Course Feedback Submission Form
 
 1. Group Information:
-____________________________________________________________
-	Student First name    Lastname	Email ID
-____________________________________________________________	
-	Samatha		      Anumolu	SXA81360@ucmo.edu
-	Navya
+_________________________________________________________________
+	Student First name    Lastname	 Middlename     Email ID
+_________________________________________________________________	
+	Samatha		      Anumolu		        SXA81360@ucmo.edu
+	Navya		      Pampari    Raghu		nxp34700@ucmo.edu
 	
 2. Github URL: https://github.com/sxa81360/GroupProject.git
 
@@ -25,7 +25,9 @@ For this planning and discussion, we have spend approximately 1 hour 30 minutes 
 
 • Developement activities: 
 
-1: One of us created the repository and made the  and shared the URL to another team member.
+1. One of us created the repository and shared the repository URL to another team member.
+2. The other team mate forked the repository and started to make changes to code.
+3. After making changes to the source code, we have clicked "Commit Changes" button.
 
 
 4. Project Introduction: 
